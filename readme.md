@@ -32,7 +32,7 @@ In the second publication, we characterize the operation of the PLL in the NI US
 
 The NI [MyRio](https://en.wikipedia.org/wiki/MyRIO) is based on a Xilinx Z-7010 and contains an FPGA and a real-time PC. Our code implements the PLL at a high level, which is easier to understand, but leaves a lot of optimization to the compiler. The two sub-variants of our implementation allow either 3 channels and a fixed filter or 2 channels and a variable filter. The ADC operates at 500 kHz and 12 bits. The digital filters are those provided by Labview.
 
-More details are [here](MyRio implementation). 
+More details are [here](MyRio implementation.md). 
 
 
 ### NI USB-7856
@@ -40,7 +40,7 @@ More details are [here](MyRio implementation).
 The NI USB-7856R OEM board has a larger FPGA (Kintex-7 160T) and a faster ADC (1 MHz, 16 bit). The PLL algorithm is the same, but is implemented closer to the hardware. We run the core of the PLL in a Single-Cycle Timed Loop (SCTL), which controls the timing more accurately. For this we use the 
 [4-wire handshake](https://forums.ni.com/t5/Example-Code/FPGA-Design-Pattern-Four-Wire-Handshake-N-Input-to-M-Output/ta-p/3537293). We have also modified the digital filters provided by Labview to work in an SCTL.
 
-More details are [here](NI USB 7856R implementation). 
+More details are [here](NI USB 7856R implementation.md). 
 
 ## Labview Version
 
