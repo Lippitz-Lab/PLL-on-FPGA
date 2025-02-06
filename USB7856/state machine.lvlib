@@ -12,6 +12,5 @@
 	<Item Name="rising edge.vi" Type="VI" URL="../rising edge.vi"/>
 	<Item Name="scan param.ctl" Type="VI" URL="../scan param.ctl"/>
 	<Item Name="shutter-modes.ctl" Type="VI" URL="../shutter-modes.ctl"/>
-	<Item Name="state machine.vi" Type="VI" URL="../state machine.vi"/>
 	<Item Name="states.ctl" Type="VI" URL="../states.ctl"/>
 </Library>

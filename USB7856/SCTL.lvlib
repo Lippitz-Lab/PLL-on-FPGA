@@ -10,15 +10,16 @@
 	<Item Name="4-wire-post-logic.vi" Type="VI" URL="../4-wire-post-logic.vi"/>
 	<Item Name="4-wire-pre-logic.vi" Type="VI" URL="../4-wire-pre-logic.vi"/>
 	<Item Name="fifo send AI or phase.vi" Type="VI" URL="../fifo send AI or phase.vi"/>
-	<Item Name="interpolate-phase-sctl-3.vi" Type="VI" URL="../interpolate-phase-sctl-3.vi"/>
-	<Item Name="LP core 3.vi" Type="VI" URL="../LP core 3.vi"/>
-	<Item Name="LP-sctl-3.vi" Type="VI" URL="../LP-sctl-3.vi"/>
-	<Item Name="mixer-sctl.vi" Type="VI" URL="../mixer-sctl.vi"/>
-	<Item Name="notch core 3.vi" Type="VI" URL="../notch core 3.vi"/>
-	<Item Name="notch-sctl-3.vi" Type="VI" URL="../notch-sctl-3.vi"/>
-	<Item Name="param-sctl-pll.ctl" Type="VI" URL="../param-sctl-pll.ctl"/>
-	<Item Name="PI-sctl-3.vi" Type="VI" URL="../PI-sctl-3.vi"/>
-	<Item Name="triple Lockin SCTL.vi" Type="VI" URL="../triple Lockin SCTL.vi"/>
-	<Item Name="triple pll SCTL.vi" Type="VI" URL="../triple pll SCTL.vi"/>
-	<Item Name="VCO-sctl-3.vi" Type="VI" URL="../VCO-sctl-3.vi"/>
+	<Item Name="interpolate-phase.vi" Type="VI" URL="../interpolate-phase.vi"/>
+	<Item Name="lockin-3ch.vi" Type="VI" URL="../lockin-3ch.vi"/>
+	<Item Name="LP core 3ch.vi" Type="VI" URL="../LP core 3ch.vi"/>
+	<Item Name="LP-sctl-3ch.vi" Type="VI" URL="../LP-sctl-3ch.vi"/>
+	<Item Name="mixer.vi" Type="VI" URL="../mixer.vi"/>
+	<Item Name="notch core 3ch.vi" Type="VI" URL="../notch core 3ch.vi"/>
+	<Item Name="notch-sctl-3ch.vi" Type="VI" URL="../notch-sctl-3ch.vi"/>
+	<Item Name="param-lockin.ctl" Type="VI" URL="../param-lockin.ctl"/>
+	<Item Name="param-pll.ctl" Type="VI" URL="../param-pll.ctl"/>
+	<Item Name="PI-3ch.vi" Type="VI" URL="../PI-3ch.vi"/>
+	<Item Name="pll-3ch.vi" Type="VI" URL="../pll-3ch.vi"/>
+	<Item Name="VCO-3ch.vi" Type="VI" URL="../VCO-3ch.vi"/>
 </Library>
