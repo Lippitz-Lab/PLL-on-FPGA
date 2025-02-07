@@ -21,7 +21,7 @@ This is part of the reference generation in our setup for fluorescence-detected 
 
 * Sanchayeeta Jana, Simon Durst, Lucas Ludwig, Markus Lippitz:
 *Overcoming experimental obstacles in two-dimensional spectroscopy of a
-single molecule*, submitted (2025)
+single molecule*, submitted (2025), [arxiv: 2502.03924](http://arxiv.org/abs/2502.03924)
 
 In the second publication, we characterize the operation of the PLL in the NI USB 7856R implementation.
 
