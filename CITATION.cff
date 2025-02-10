@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PLL on FPGA via Labview
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Lucas
+    family-names: Ludwig
+    orcid: 'https://orcid.org/0009-0006-1472-0537'
+  - given-names: Markus
+    family-names: Lippitz
+    orcid: 'https://orcid.org/0000-0003-1218-6511'
+repository-code: 'https://github.com/Lippitz-Lab/PLL-on-FPGA'
+abstract: >-
+  This repository contains two implementations of a
+  phase-locked loop (PLL) on a FPGA (field-programmable gate
+  array). We use the Labview graphical programming
+  environment to generate FPGA binary code and a PC
+  interface.
+license: MIT
